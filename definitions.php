@@ -6,7 +6,7 @@
  * A full translation to German including all default plugins and
  * admin as of 2.0.17.10. This has mainly been done by Matthias Niess
  * in 2011. I am just taking over his great work and add the translations
- * for recent Vanilla version changes.
+ * for recent Vanilla version changes. I switched the license, though.
  * 
  * @author  Matthias Niess <mniess at gmail dot com>
  * @author  Oliver Schwarz <oliver at eanna dot de>
